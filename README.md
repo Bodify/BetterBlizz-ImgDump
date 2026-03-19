@@ -1,4 +1,4 @@
-# BetterBlizzAddons
+# BetterBlizz-ImgDump
 - Image dump
 ![BBFAuras](https://github.com/user-attachments/assets/08c36881-6496-47b8-834b-56f8f48023cd)
 ![BBPAuras](https://github.com/user-attachments/assets/7fd0e49d-e73d-47ea-8e5c-c2c7bb841ca4)
@@ -45,4 +45,7 @@
 ![bbfSettings](https://github.com/user-attachments/assets/6551731a-faab-40f3-ad74-7a415f75442a)
 ![bbfCastbarSettings](https://github.com/user-attachments/assets/c36ee356-b785-4fd4-ba1d-4fb357d7228a)
 ![bbfAurasSettings](https://github.com/user-attachments/assets/bc5f3b05-f387-4247-b823-45d0819d81ff)
+![bbAddons](https://github.com/user-attachments/assets/53a8d296-ded6-4ea4-81dc-556c0c8a40d3)
+![bbAddonsDefault](https://github.com/user-attachments/assets/27bc64fa-2f51-447d-9431-d068acac1aa7)
+
 
