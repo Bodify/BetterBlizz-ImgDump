@@ -47,5 +47,6 @@
 ![bbfAurasSettings](https://github.com/user-attachments/assets/bc5f3b05-f387-4247-b823-45d0819d81ff)
 ![bbAddons](https://github.com/user-attachments/assets/53a8d296-ded6-4ea4-81dc-556c0c8a40d3)
 ![bbAddonsDefault](https://github.com/user-attachments/assets/27bc64fa-2f51-447d-9431-d068acac1aa7)
+![sArenaAuraHighlight](https://github.com/user-attachments/assets/0aa1e574-7de5-434f-9fb0-7a18e9a224d1)
 
 
