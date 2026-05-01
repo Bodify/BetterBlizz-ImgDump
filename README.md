@@ -49,5 +49,5 @@
 ![bbAddonsDefault](https://github.com/user-attachments/assets/27bc64fa-2f51-447d-9431-d068acac1aa7)
 ![sArenaAuraHighlight](https://github.com/user-attachments/assets/0aa1e574-7de5-434f-9fb0-7a18e9a224d1)
 ![bbfTargetText](https://github.com/user-attachments/assets/d4fde923-9c26-4066-98fd-4e012c2efd7f)
-
+![sArenaTrinketGlow](https://github.com/user-attachments/assets/898fde7b-3e77-4209-b52c-f2fb3284b6db)
 
