@@ -50,4 +50,4 @@
 ![sArenaAuraHighlight](https://github.com/user-attachments/assets/0aa1e574-7de5-434f-9fb0-7a18e9a224d1)
 ![bbfTargetText](https://github.com/user-attachments/assets/d4fde923-9c26-4066-98fd-4e012c2efd7f)
 ![sArenaTrinketGlow](https://github.com/user-attachments/assets/898fde7b-3e77-4209-b52c-f2fb3284b6db)
-
+![castbarsAndOvershields](https://github.com/user-attachments/assets/fdf2b502-459f-4d82-bde3-26086d5ab39e)
