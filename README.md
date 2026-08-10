@@ -52,5 +52,15 @@
 ![sArenaTrinketGlow](https://github.com/user-attachments/assets/898fde7b-3e77-4209-b52c-f2fb3284b6db)
 ![castbarsAndOvershields](https://github.com/user-attachments/assets/fdf2b502-459f-4d82-bde3-26086d5ab39e)
 ![koth](https://github.com/user-attachments/assets/1b8d6fe5-8c98-418e-ba4e-7cd076a43185)
+![bbmPreview](https://github.com/user-attachments/assets/46997c57-5151-44b5-a678-788111be0be6)
+![bbmClassIcon](https://github.com/user-attachments/assets/46997c57-5151-44b5-a678-788111be0be6)
+![bbmArenaNames](https://github.com/user-attachments/assets/6ef9df45-f5e4-425a-adf8-c7fb2bae3894)
+![bbmTotemIcons](https://github.com/user-attachments/assets/3cb87859-d908-4fab-b2e6-aa047d74fc1d)
+![bbmProfiles](https://github.com/user-attachments/assets/33992f80-3b37-41a3-be57-82e075fa609d)
+![bbmCC](https://github.com/user-attachments/assets/a73492e4-4604-4eaf-b02d-316c86dc22a1)
+![bbmTargetHighlight](https://github.com/user-attachments/assets/4aba89b7-b526-4d5f-a692-709821de0212)
+
+
+
 
 
