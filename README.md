@@ -59,6 +59,11 @@
 ![bbmProfiles](https://github.com/user-attachments/assets/33992f80-3b37-41a3-be57-82e075fa609d)
 ![bbmCC](https://github.com/user-attachments/assets/a73492e4-4604-4eaf-b02d-316c86dc22a1)
 ![bbmTargetHighlight](https://github.com/user-attachments/assets/4aba89b7-b526-4d5f-a692-709821de0212)
+![bbpTargetIndicatorOptions](https://github.com/user-attachments/assets/7fec8e58-eb1c-4cd2-80c7-6146edcaee1a)
+![bbfShamanCombos](https://github.com/user-attachments/assets/f4b0d017-6394-4211-bd70-a668ab5bd8a0)
+![bbfHideToTManas](https://github.com/user-attachments/assets/abbbcdee-9ab4-4a52-aba4-c3c095f41f10)
+
+
 
 
 
