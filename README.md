@@ -62,6 +62,8 @@
 ![bbpTargetIndicatorOptions](https://github.com/user-attachments/assets/7fec8e58-eb1c-4cd2-80c7-6146edcaee1a)
 ![bbfShamanCombos](https://github.com/user-attachments/assets/f4b0d017-6394-4211-bd70-a668ab5bd8a0)
 ![bbfHideToTManas](https://github.com/user-attachments/assets/abbbcdee-9ab4-4a52-aba4-c3c095f41f10)
+![bbfForeverRetailUf](https://github.com/user-attachments/assets/4c72d59c-03a3-4594-960b-ce9da7df2375)
+![bbfForeverUf](https://github.com/user-attachments/assets/7f6d6077-83bd-44a6-b9b8-72e26dda7720)
 
 
 
